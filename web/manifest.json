@@ -1,0 +1,10 @@
+{
+    "name": "ALERT!!! Your Box has been tampered ",
+    "description": "Counterfiet ",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "/web/counter.png"
+    },
+    "manifest_version": 3
+}
